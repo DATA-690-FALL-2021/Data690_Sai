@@ -7,7 +7,7 @@
 To tie down a challanging position in a recognized association to grow my learnings, information, and abilities
 
 
-## Walk of life
+## Walk of life                                                                                                                         ![](name of the image file)
 
 -> A student- Master of Professional Studies in Data Science from University of Maryland, Baltimore County
 
