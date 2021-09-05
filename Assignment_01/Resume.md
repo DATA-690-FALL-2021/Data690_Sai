@@ -1,9 +1,5 @@
 
-
-[photo.pdf.pdf](https://github.com/px70339sai/Data690_Sai/files/7110941/photo.pdf.pdf)
-
-
-
+![New doc 14-Feb-2021 3 12 PM](https://user-images.githubusercontent.com/89939369/132116361-77f75ab3-db85-48ea-aa42-32a19607812a.jpg)
 
 
 
