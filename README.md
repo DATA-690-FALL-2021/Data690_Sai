@@ -1,5 +1,8 @@
 # Data690_Sai
 
+[photo.pdf.pdf](https://github.com/px70339sai/Data690_Sai/files/7110849/photo.pdf.pdf)
+
+
 *Never too old to set another goal or to dream a new one!
 
 ## Career Objective
@@ -7,7 +10,7 @@
 To tie down a challanging position in a recognized association to grow my learnings, information, and abilities
 
 
-## Walk of life                                                                                                                         ![](name of the image file)
+## Walk of life                                                                                                                       
 
 -> A student- Master of Professional Studies in Data Science from University of Maryland, Baltimore County
 
@@ -71,6 +74,8 @@ To tie down a challanging position in a recognized association to grow my learni
 -> Tutoring underprivileged secondary and college students to pursue my passion for teaching
 
 -> Holding an Intermediate level certificate in Carnatic Music
+
+-> Holding Higher level C- Certificate in Natioanl Cadet Cops(NCC)
    
 
 ## Personal Information
