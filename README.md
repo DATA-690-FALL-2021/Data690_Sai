@@ -1,6 +1,7 @@
 # Data690_Sai
 
-[photo.pdf.pdf](https://github.com/px70339sai/Data690_Sai/files/7110849/photo.pdf.pdf)
+![New doc 14-Feb-2021 3 12 PM](https://user-images.githubusercontent.com/89939369/132116485-0f963c6f-2273-4d33-8965-d324024fafcb.jpg)
+
 
 
 *Never too old to set another goal or to dream a new one!
