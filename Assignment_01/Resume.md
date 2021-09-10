@@ -30,7 +30,7 @@ To tie down a challanging position in a recognized association to grow my learni
 
 -> Aurora Degree College(Affiliated to Osmania University)- Bachelor of Science(*Percentage-85)
 
-     *Course Work:Mathematics, Physics and Computer Science
+     *Course Work:Mathematics, Physics and Computer Science(MPCs)
      
 ## Language Skills
 
