@@ -40,7 +40,7 @@ To tie down a challanging position in a recognized association to grow my learni
      
  ## Experience
  
- -> SunMicro Infosystems- Associate Data Analyst(Short Term Internship)
+ -> SunMicro Info Solutions- Associate Data Analyst(Short Term Internship)
  
       *Roles and responsibilities included: Designing and formatting the data, Mining the data using
         Statistical tools and creating the documentation about Data Analysis process.
@@ -75,7 +75,7 @@ To tie down a challanging position in a recognized association to grow my learni
 
 -> Holding an Intermediate level certificate in Carnatic Music
 
--> Holding Higher level C- Certificate in Natioanl Cadet Cops(NCC)
+-> Holding Higher level C- Certificate in Natioanl Cadet Corps(NCC)
    
 
 ## Personal Information
