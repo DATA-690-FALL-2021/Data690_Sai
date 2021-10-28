@@ -1,0 +1,843 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2018,25.0,SI.POV.MDIM.FE,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+1,2015,19.1,SI.POV.MDIM.FE,AUT,Austria,Europe & Central Asia,High income,Not classified
+2,2016,18.9,SI.POV.MDIM.FE,AUT,Austria,Europe & Central Asia,High income,Not classified
+3,2017,19.3,SI.POV.MDIM.FE,AUT,Austria,Europe & Central Asia,High income,Not classified
+4,2018,18.7,SI.POV.MDIM.FE,AUT,Austria,Europe & Central Asia,High income,Not classified
+5,2019,18.3,SI.POV.MDIM.FE,AUT,Austria,Europe & Central Asia,High income,Not classified
+6,2015,22.2,SI.POV.MDIM.FE,BEL,Belgium,Europe & Central Asia,High income,Not classified
+7,2016,22.3,SI.POV.MDIM.FE,BEL,Belgium,Europe & Central Asia,High income,Not classified
+8,2017,21.8,SI.POV.MDIM.FE,BEL,Belgium,Europe & Central Asia,High income,Not classified
+9,2018,20.9,SI.POV.MDIM.FE,BEL,Belgium,Europe & Central Asia,High income,Not classified
+10,2019,20.0,SI.POV.MDIM.FE,BEL,Belgium,Europe & Central Asia,High income,Not classified
+11,2015,43.0,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+12,2016,42.1,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+13,2017,40.4,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+14,2018,34.6,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+15,2019,34.4,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+16,2020,34.2,SI.POV.MDIM.FE,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+17,2015,20.4,SI.POV.MDIM.FE,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+18,2017,20.1,SI.POV.MDIM.FE,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+19,2015,25.2398995715,SI.POV.MDIM.FE,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+20,2016,23.9706109286,SI.POV.MDIM.FE,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+21,2017,22.027263573,SI.POV.MDIM.FE,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+22,2018,22.7610343778,SI.POV.MDIM.FE,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+23,2019,20.0576047499,SI.POV.MDIM.FE,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+24,2015,29.6,SI.POV.MDIM.FE,HRV,Croatia,Europe & Central Asia,High income,IBRD
+25,2016,28.6,SI.POV.MDIM.FE,HRV,Croatia,Europe & Central Asia,High income,IBRD
+26,2017,27.2,SI.POV.MDIM.FE,HRV,Croatia,Europe & Central Asia,High income,IBRD
+27,2018,25.9,SI.POV.MDIM.FE,HRV,Croatia,Europe & Central Asia,High income,IBRD
+28,2019,24.3,SI.POV.MDIM.FE,HRV,Croatia,Europe & Central Asia,High income,IBRD
+29,2015,29.8,SI.POV.MDIM.FE,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+30,2016,28.7,SI.POV.MDIM.FE,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+31,2017,26.4,SI.POV.MDIM.FE,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+32,2018,24.7,SI.POV.MDIM.FE,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+33,2019,23.3,SI.POV.MDIM.FE,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+34,2015,15.6,SI.POV.MDIM.FE,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+35,2016,14.6,SI.POV.MDIM.FE,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+36,2017,13.9,SI.POV.MDIM.FE,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+37,2018,14.3,SI.POV.MDIM.FE,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+38,2019,14.6,SI.POV.MDIM.FE,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+39,2015,18.0,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+40,2016,17.2,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+41,2017,16.6,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+42,2018,16.9,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+43,2019,16.1,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+44,2020,16.2,SI.POV.MDIM.FE,DNK,Denmark,Europe & Central Asia,High income,Not classified
+45,2015,24.5,SI.POV.MDIM.FE,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+46,2016,22.4,SI.POV.MDIM.FE,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+47,2017,19.7,SI.POV.MDIM.FE,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+48,2018,18.1,SI.POV.MDIM.FE,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+49,2019,15.6,SI.POV.MDIM.FE,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+50,2016,40.9,SI.POV.MDIM.FE,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+51,2017,37.1,SI.POV.MDIM.FE,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+52,2018,32.8,SI.POV.MDIM.FE,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+53,2019,31.0,SI.POV.MDIM.FE,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+54,2015,26.0,SI.POV.MDIM.FE,EST,Estonia,Europe & Central Asia,High income,Not classified
+55,2016,26.7,SI.POV.MDIM.FE,EST,Estonia,Europe & Central Asia,High income,Not classified
+56,2017,25.6,SI.POV.MDIM.FE,EST,Estonia,Europe & Central Asia,High income,Not classified
+57,2018,26.6,SI.POV.MDIM.FE,EST,Estonia,Europe & Central Asia,High income,Not classified
+58,2019,26.3,SI.POV.MDIM.FE,EST,Estonia,Europe & Central Asia,High income,Not classified
+59,2015,16.8,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+60,2016,16.6,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+61,2017,15.7,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+62,2018,16.7,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+63,2019,15.9,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+64,2020,15.8,SI.POV.MDIM.FE,FIN,Finland,Europe & Central Asia,High income,Not classified
+65,2015,18.2,SI.POV.MDIM.FE,FRA,France,Europe & Central Asia,High income,Not classified
+66,2016,19.1,SI.POV.MDIM.FE,FRA,France,Europe & Central Asia,High income,Not classified
+67,2017,17.6,SI.POV.MDIM.FE,FRA,France,Europe & Central Asia,High income,Not classified
+68,2018,17.6,SI.POV.MDIM.FE,FRA,France,Europe & Central Asia,High income,Not classified
+69,2019,18.5,SI.POV.MDIM.FE,FRA,France,Europe & Central Asia,High income,Not classified
+70,2015,21.1,SI.POV.MDIM.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+71,2016,21.2,SI.POV.MDIM.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+72,2017,20.3,SI.POV.MDIM.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+73,2018,19.8,SI.POV.MDIM.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+74,2019,18.5,SI.POV.MDIM.FE,DEU,Germany,Europe & Central Asia,High income,Not classified
+75,2015,36.6,SI.POV.MDIM.FE,GRC,Greece,Europe & Central Asia,High income,Not classified
+76,2016,36.6,SI.POV.MDIM.FE,GRC,Greece,Europe & Central Asia,High income,Not classified
+77,2017,35.7,SI.POV.MDIM.FE,GRC,Greece,Europe & Central Asia,High income,Not classified
+78,2018,32.6,SI.POV.MDIM.FE,GRC,Greece,Europe & Central Asia,High income,Not classified
+79,2019,30.8,SI.POV.MDIM.FE,GRC,Greece,Europe & Central Asia,High income,Not classified
+80,2015,28.4,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+81,2016,26.5,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+82,2017,26.1,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+83,2018,20.3,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+84,2019,19.6,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+85,2020,17.8,SI.POV.MDIM.FE,HUN,Hungary,Europe & Central Asia,High income,Not classified
+86,2015,13.0,SI.POV.MDIM.FE,ISL,Iceland,Europe & Central Asia,High income,Not classified
+87,2016,12.6,SI.POV.MDIM.FE,ISL,Iceland,Europe & Central Asia,High income,Not classified
+88,2017,13.6,SI.POV.MDIM.FE,ISL,Iceland,Europe & Central Asia,High income,Not classified
+89,2018,11.3,SI.POV.MDIM.FE,ISL,Iceland,Europe & Central Asia,High income,Not classified
+90,2015,26.6,SI.POV.MDIM.FE,IRL,Ireland,Europe & Central Asia,High income,Not classified
+91,2016,25.5,SI.POV.MDIM.FE,IRL,Ireland,Europe & Central Asia,High income,Not classified
+92,2017,23.5,SI.POV.MDIM.FE,IRL,Ireland,Europe & Central Asia,High income,Not classified
+93,2018,22.6,SI.POV.MDIM.FE,IRL,Ireland,Europe & Central Asia,High income,Not classified
+94,2019,21.5,SI.POV.MDIM.FE,IRL,Ireland,Europe & Central Asia,High income,Not classified
+95,2015,29.6,SI.POV.MDIM.FE,ITA,Italy,Europe & Central Asia,High income,Not classified
+96,2016,30.8,SI.POV.MDIM.FE,ITA,Italy,Europe & Central Asia,High income,Not classified
+97,2017,29.8,SI.POV.MDIM.FE,ITA,Italy,Europe & Central Asia,High income,Not classified
+98,2018,28.4,SI.POV.MDIM.FE,ITA,Italy,Europe & Central Asia,High income,Not classified
+99,2019,26.6,SI.POV.MDIM.FE,ITA,Italy,Europe & Central Asia,High income,Not classified
+100,2015,33.4,SI.POV.MDIM.FE,LVA,Latvia,Europe & Central Asia,High income,Not classified
+101,2016,30.6,SI.POV.MDIM.FE,LVA,Latvia,Europe & Central Asia,High income,Not classified
+102,2017,31.1,SI.POV.MDIM.FE,LVA,Latvia,Europe & Central Asia,High income,Not classified
+103,2018,31.1,SI.POV.MDIM.FE,LVA,Latvia,Europe & Central Asia,High income,Not classified
+104,2019,29.6,SI.POV.MDIM.FE,LVA,Latvia,Europe & Central Asia,High income,Not classified
+105,2015,30.4,SI.POV.MDIM.FE,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+106,2016,31.5,SI.POV.MDIM.FE,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+107,2017,31.3,SI.POV.MDIM.FE,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+108,2018,30.5,SI.POV.MDIM.FE,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+109,2019,28.4,SI.POV.MDIM.FE,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+110,2015,19.3,SI.POV.MDIM.FE,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+111,2016,20.9,SI.POV.MDIM.FE,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+112,2017,22.8,SI.POV.MDIM.FE,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+113,2018,23.6,SI.POV.MDIM.FE,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+114,2019,21.6,SI.POV.MDIM.FE,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+115,2016,39.3,SI.POV.MDIM.FE,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+116,2015,23.8,SI.POV.MDIM.FE,MLT,Malta,Middle East & North Africa,High income,Not classified
+117,2016,20.4,SI.POV.MDIM.FE,MLT,Malta,Middle East & North Africa,High income,Not classified
+118,2017,20.2,SI.POV.MDIM.FE,MLT,Malta,Middle East & North Africa,High income,Not classified
+119,2018,20.6,SI.POV.MDIM.FE,MLT,Malta,Middle East & North Africa,High income,Not classified
+120,2019,21.4,SI.POV.MDIM.FE,MLT,Malta,Middle East & North Africa,High income,Not classified
+121,2016,44.0,SI.POV.MDIM.FE,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+122,2018,42.4,SI.POV.MDIM.FE,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+123,2015,16.9,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+124,2016,17.3,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+125,2017,17.3,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+126,2018,17.2,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+127,2019,17.0,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+128,2020,16.7,SI.POV.MDIM.FE,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+129,2015,41.8,SI.POV.MDIM.FE,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+130,2016,41.0,SI.POV.MDIM.FE,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+131,2017,41.5,SI.POV.MDIM.FE,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+132,2018,41.1,SI.POV.MDIM.FE,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+133,2015,16.6,SI.POV.MDIM.FE,NOR,Norway,Europe & Central Asia,High income,Not classified
+134,2016,17.1,SI.POV.MDIM.FE,NOR,Norway,Europe & Central Asia,High income,Not classified
+135,2017,17.1,SI.POV.MDIM.FE,NOR,Norway,Europe & Central Asia,High income,Not classified
+136,2018,17.2,SI.POV.MDIM.FE,NOR,Norway,Europe & Central Asia,High income,Not classified
+137,2019,16.9,SI.POV.MDIM.FE,NOR,Norway,Europe & Central Asia,High income,Not classified
+138,2017,18.5,SI.POV.MDIM.FE,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+139,2015,23.2,SI.POV.MDIM.FE,POL,Poland,Europe & Central Asia,High income,IBRD
+140,2016,22.2,SI.POV.MDIM.FE,POL,Poland,Europe & Central Asia,High income,IBRD
+141,2017,19.6,SI.POV.MDIM.FE,POL,Poland,Europe & Central Asia,High income,IBRD
+142,2018,19.4,SI.POV.MDIM.FE,POL,Poland,Europe & Central Asia,High income,IBRD
+143,2019,18.7,SI.POV.MDIM.FE,POL,Poland,Europe & Central Asia,High income,IBRD
+144,2015,38.2,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+145,2016,39.8,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+146,2017,36.5,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+147,2018,33.9,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+148,2019,32.1,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+149,2020,31.9,SI.POV.MDIM.FE,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+150,2015,18.6,SI.POV.MDIM.FE,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+151,2016,18.2,SI.POV.MDIM.FE,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+152,2017,16.2,SI.POV.MDIM.FE,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+153,2018,16.6,SI.POV.MDIM.FE,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+154,2019,17.0,SI.POV.MDIM.FE,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+155,2015,20.8,SI.POV.MDIM.FE,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+156,2016,19.9,SI.POV.MDIM.FE,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+157,2017,18.3,SI.POV.MDIM.FE,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+158,2018,17.2,SI.POV.MDIM.FE,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+159,2019,15.6,SI.POV.MDIM.FE,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+160,2015,28.3,SI.POV.MDIM.FE,ESP,Spain,Europe & Central Asia,High income,Not classified
+161,2016,27.9,SI.POV.MDIM.FE,ESP,Spain,Europe & Central Asia,High income,Not classified
+162,2017,27.1,SI.POV.MDIM.FE,ESP,Spain,Europe & Central Asia,High income,Not classified
+163,2018,27.0,SI.POV.MDIM.FE,ESP,Spain,Europe & Central Asia,High income,Not classified
+164,2019,26.0,SI.POV.MDIM.FE,ESP,Spain,Europe & Central Asia,High income,Not classified
+165,2016,2.47342,SI.POV.MDIM.FE,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+166,2015,19.8,SI.POV.MDIM.FE,SWE,Sweden,Europe & Central Asia,High income,Not classified
+167,2016,19.5,SI.POV.MDIM.FE,SWE,Sweden,Europe & Central Asia,High income,Not classified
+168,2017,18.3,SI.POV.MDIM.FE,SWE,Sweden,Europe & Central Asia,High income,Not classified
+169,2018,19.4,SI.POV.MDIM.FE,SWE,Sweden,Europe & Central Asia,High income,Not classified
+170,2019,19.6,SI.POV.MDIM.FE,SWE,Sweden,Europe & Central Asia,High income,Not classified
+171,2015,42.4,SI.POV.MDIM.FE,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+172,2016,46.1,SI.POV.MDIM.FE,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+173,2017,42.6,SI.POV.MDIM.FE,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+174,2018,41.0,SI.POV.MDIM.FE,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+175,2019,41.0,SI.POV.MDIM.FE,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+176,2018,21.9,SI.POV.MDIM.MA,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+177,2015,17.5,SI.POV.MDIM.MA,AUT,Austria,Europe & Central Asia,High income,Not classified
+178,2016,16.9,SI.POV.MDIM.MA,AUT,Austria,Europe & Central Asia,High income,Not classified
+179,2017,16.8,SI.POV.MDIM.MA,AUT,Austria,Europe & Central Asia,High income,Not classified
+180,2018,16.2,SI.POV.MDIM.MA,AUT,Austria,Europe & Central Asia,High income,Not classified
+181,2019,15.4,SI.POV.MDIM.MA,AUT,Austria,Europe & Central Asia,High income,Not classified
+182,2015,20.0,SI.POV.MDIM.MA,BEL,Belgium,Europe & Central Asia,High income,Not classified
+183,2016,19.5,SI.POV.MDIM.MA,BEL,Belgium,Europe & Central Asia,High income,Not classified
+184,2017,19.4,SI.POV.MDIM.MA,BEL,Belgium,Europe & Central Asia,High income,Not classified
+185,2018,19.0,SI.POV.MDIM.MA,BEL,Belgium,Europe & Central Asia,High income,Not classified
+186,2019,18.9,SI.POV.MDIM.MA,BEL,Belgium,Europe & Central Asia,High income,Not classified
+187,2015,39.5,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+188,2016,38.5,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+189,2017,37.2,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+190,2018,30.8,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+191,2019,30.5,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+192,2020,29.8,SI.POV.MDIM.MA,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+193,2015,21.4,SI.POV.MDIM.MA,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+194,2017,21.3,SI.POV.MDIM.MA,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+195,2015,27.1438370075,SI.POV.MDIM.MA,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+196,2016,26.1707978521,SI.POV.MDIM.MA,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+197,2017,24.1816941141,SI.POV.MDIM.MA,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+198,2018,24.5280005203,SI.POV.MDIM.MA,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+199,2019,21.4139516964,SI.POV.MDIM.MA,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+200,2015,28.4,SI.POV.MDIM.MA,HRV,Croatia,Europe & Central Asia,High income,IBRD
+201,2016,27.3,SI.POV.MDIM.MA,HRV,Croatia,Europe & Central Asia,High income,IBRD
+202,2017,25.5,SI.POV.MDIM.MA,HRV,Croatia,Europe & Central Asia,High income,IBRD
+203,2018,23.6,SI.POV.MDIM.MA,HRV,Croatia,Europe & Central Asia,High income,IBRD
+204,2019,22.1,SI.POV.MDIM.MA,HRV,Croatia,Europe & Central Asia,High income,IBRD
+205,2015,28.1,SI.POV.MDIM.MA,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+206,2016,26.6,SI.POV.MDIM.MA,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+207,2017,24.0,SI.POV.MDIM.MA,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+208,2018,23.1,SI.POV.MDIM.MA,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+209,2019,21.2,SI.POV.MDIM.MA,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+210,2015,12.3,SI.POV.MDIM.MA,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+211,2016,12.0,SI.POV.MDIM.MA,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+212,2017,10.5,SI.POV.MDIM.MA,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+213,2018,10.0,SI.POV.MDIM.MA,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+214,2019,10.4,SI.POV.MDIM.MA,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+215,2015,17.5,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+216,2016,16.4,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+217,2017,17.8,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+218,2018,17.1,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+219,2019,16.6,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+220,2020,15.6,SI.POV.MDIM.MA,DNK,Denmark,Europe & Central Asia,High income,Not classified
+221,2015,26.4,SI.POV.MDIM.MA,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+222,2016,23.7,SI.POV.MDIM.MA,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+223,2017,22.1,SI.POV.MDIM.MA,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+224,2018,19.6,SI.POV.MDIM.MA,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+225,2019,17.2,SI.POV.MDIM.MA,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+226,2016,38.0,SI.POV.MDIM.MA,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+227,2017,40.9,SI.POV.MDIM.MA,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+228,2018,35.0,SI.POV.MDIM.MA,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+229,2019,33.2,SI.POV.MDIM.MA,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+230,2015,22.2,SI.POV.MDIM.MA,EST,Estonia,Europe & Central Asia,High income,Not classified
+231,2016,21.9,SI.POV.MDIM.MA,EST,Estonia,Europe & Central Asia,High income,Not classified
+232,2017,21.0,SI.POV.MDIM.MA,EST,Estonia,Europe & Central Asia,High income,Not classified
+233,2018,21.8,SI.POV.MDIM.MA,EST,Estonia,Europe & Central Asia,High income,Not classified
+234,2019,22.0,SI.POV.MDIM.MA,EST,Estonia,Europe & Central Asia,High income,Not classified
+235,2015,16.8,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+236,2016,16.6,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+237,2017,15.6,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+238,2018,16.2,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+239,2019,15.4,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+240,2020,16.2,SI.POV.MDIM.MA,FIN,Finland,Europe & Central Asia,High income,Not classified
+241,2015,17.1,SI.POV.MDIM.MA,FRA,France,Europe & Central Asia,High income,Not classified
+242,2016,17.3,SI.POV.MDIM.MA,FRA,France,Europe & Central Asia,High income,Not classified
+243,2017,16.5,SI.POV.MDIM.MA,FRA,France,Europe & Central Asia,High income,Not classified
+244,2018,17.2,SI.POV.MDIM.MA,FRA,France,Europe & Central Asia,High income,Not classified
+245,2019,17.3,SI.POV.MDIM.MA,FRA,France,Europe & Central Asia,High income,Not classified
+246,2015,18.8,SI.POV.MDIM.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+247,2016,18.1,SI.POV.MDIM.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+248,2017,17.6,SI.POV.MDIM.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+249,2018,17.6,SI.POV.MDIM.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+250,2019,16.3,SI.POV.MDIM.MA,DEU,Germany,Europe & Central Asia,High income,Not classified
+251,2015,34.8,SI.POV.MDIM.MA,GRC,Greece,Europe & Central Asia,High income,Not classified
+252,2016,34.4,SI.POV.MDIM.MA,GRC,Greece,Europe & Central Asia,High income,Not classified
+253,2017,33.9,SI.POV.MDIM.MA,GRC,Greece,Europe & Central Asia,High income,Not classified
+254,2018,30.9,SI.POV.MDIM.MA,GRC,Greece,Europe & Central Asia,High income,Not classified
+255,2019,29.2,SI.POV.MDIM.MA,GRC,Greece,Europe & Central Asia,High income,Not classified
+256,2015,28.0,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+257,2016,26.0,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+258,2017,24.9,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+259,2018,18.9,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+260,2019,18.0,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+261,2020,17.7,SI.POV.MDIM.MA,HUN,Hungary,Europe & Central Asia,High income,Not classified
+262,2015,11.9,SI.POV.MDIM.MA,ISL,Iceland,Europe & Central Asia,High income,Not classified
+263,2016,11.8,SI.POV.MDIM.MA,ISL,Iceland,Europe & Central Asia,High income,Not classified
+264,2017,12.0,SI.POV.MDIM.MA,ISL,Iceland,Europe & Central Asia,High income,Not classified
+265,2018,10.8,SI.POV.MDIM.MA,ISL,Iceland,Europe & Central Asia,High income,Not classified
+266,2015,25.7,SI.POV.MDIM.MA,IRL,Ireland,Europe & Central Asia,High income,Not classified
+267,2016,23.3,SI.POV.MDIM.MA,IRL,Ireland,Europe & Central Asia,High income,Not classified
+268,2017,21.8,SI.POV.MDIM.MA,IRL,Ireland,Europe & Central Asia,High income,Not classified
+269,2018,19.6,SI.POV.MDIM.MA,IRL,Ireland,Europe & Central Asia,High income,Not classified
+270,2019,19.6,SI.POV.MDIM.MA,IRL,Ireland,Europe & Central Asia,High income,Not classified
+271,2015,27.7,SI.POV.MDIM.MA,ITA,Italy,Europe & Central Asia,High income,Not classified
+272,2016,29.1,SI.POV.MDIM.MA,ITA,Italy,Europe & Central Asia,High income,Not classified
+273,2017,27.8,SI.POV.MDIM.MA,ITA,Italy,Europe & Central Asia,High income,Not classified
+274,2018,26.1,SI.POV.MDIM.MA,ITA,Italy,Europe & Central Asia,High income,Not classified
+275,2019,24.5,SI.POV.MDIM.MA,ITA,Italy,Europe & Central Asia,High income,Not classified
+276,2015,27.9,SI.POV.MDIM.MA,LVA,Latvia,Europe & Central Asia,High income,Not classified
+277,2016,26.0,SI.POV.MDIM.MA,LVA,Latvia,Europe & Central Asia,High income,Not classified
+278,2017,24.9,SI.POV.MDIM.MA,LVA,Latvia,Europe & Central Asia,High income,Not classified
+279,2018,25.2,SI.POV.MDIM.MA,LVA,Latvia,Europe & Central Asia,High income,Not classified
+280,2019,24.6,SI.POV.MDIM.MA,LVA,Latvia,Europe & Central Asia,High income,Not classified
+281,2015,28.2,SI.POV.MDIM.MA,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+282,2016,28.5,SI.POV.MDIM.MA,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+283,2017,27.5,SI.POV.MDIM.MA,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+284,2018,25.7,SI.POV.MDIM.MA,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+285,2019,23.8,SI.POV.MDIM.MA,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+286,2015,17.7,SI.POV.MDIM.MA,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+287,2016,18.7,SI.POV.MDIM.MA,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+288,2017,20.3,SI.POV.MDIM.MA,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+289,2018,20.2,SI.POV.MDIM.MA,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+290,2019,19.6,SI.POV.MDIM.MA,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+291,2016,40.4,SI.POV.MDIM.MA,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+292,2015,22.2,SI.POV.MDIM.MA,MLT,Malta,Middle East & North Africa,High income,Not classified
+293,2016,20.2,SI.POV.MDIM.MA,MLT,Malta,Middle East & North Africa,High income,Not classified
+294,2017,18.5,SI.POV.MDIM.MA,MLT,Malta,Middle East & North Africa,High income,Not classified
+295,2018,17.4,SI.POV.MDIM.MA,MLT,Malta,Middle East & North Africa,High income,Not classified
+296,2019,18.8,SI.POV.MDIM.MA,MLT,Malta,Middle East & North Africa,High income,Not classified
+297,2016,43.0,SI.POV.MDIM.MA,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+298,2018,41.4,SI.POV.MDIM.MA,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+299,2015,15.9,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+300,2016,16.1,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+301,2017,16.7,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+302,2018,16.3,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+303,2019,16.1,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+304,2020,15.8,SI.POV.MDIM.MA,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+305,2015,41.3,SI.POV.MDIM.MA,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+306,2016,41.2,SI.POV.MDIM.MA,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+307,2017,41.7,SI.POV.MDIM.MA,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+308,2018,41.2,SI.POV.MDIM.MA,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+309,2015,13.3,SI.POV.MDIM.MA,NOR,Norway,Europe & Central Asia,High income,Not classified
+310,2016,13.4,SI.POV.MDIM.MA,NOR,Norway,Europe & Central Asia,High income,Not classified
+311,2017,14.8,SI.POV.MDIM.MA,NOR,Norway,Europe & Central Asia,High income,Not classified
+312,2018,15.3,SI.POV.MDIM.MA,NOR,Norway,Europe & Central Asia,High income,Not classified
+313,2019,15.4,SI.POV.MDIM.MA,NOR,Norway,Europe & Central Asia,High income,Not classified
+314,2017,19.7,SI.POV.MDIM.MA,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+315,2015,23.7,SI.POV.MDIM.MA,POL,Poland,Europe & Central Asia,High income,IBRD
+316,2016,21.6,SI.POV.MDIM.MA,POL,Poland,Europe & Central Asia,High income,IBRD
+317,2017,19.3,SI.POV.MDIM.MA,POL,Poland,Europe & Central Asia,High income,IBRD
+318,2018,18.4,SI.POV.MDIM.MA,POL,Poland,Europe & Central Asia,High income,IBRD
+319,2019,17.7,SI.POV.MDIM.MA,POL,Poland,Europe & Central Asia,High income,IBRD
+320,2015,36.5,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+321,2016,37.8,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+322,2017,34.9,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+323,2018,31.0,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+324,2019,30.3,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+325,2020,28.8,SI.POV.MDIM.MA,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+326,2015,18.1,SI.POV.MDIM.MA,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+327,2016,18.1,SI.POV.MDIM.MA,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+328,2017,16.3,SI.POV.MDIM.MA,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+329,2018,16.0,SI.POV.MDIM.MA,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+330,2019,15.7,SI.POV.MDIM.MA,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+331,2015,17.5,SI.POV.MDIM.MA,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+332,2016,16.9,SI.POV.MDIM.MA,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+333,2017,15.8,SI.POV.MDIM.MA,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+334,2018,15.2,SI.POV.MDIM.MA,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+335,2019,13.2,SI.POV.MDIM.MA,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+336,2015,29.0,SI.POV.MDIM.MA,ESP,Spain,Europe & Central Asia,High income,Not classified
+337,2016,28.0,SI.POV.MDIM.MA,ESP,Spain,Europe & Central Asia,High income,Not classified
+338,2017,26.0,SI.POV.MDIM.MA,ESP,Spain,Europe & Central Asia,High income,Not classified
+339,2018,25.1,SI.POV.MDIM.MA,ESP,Spain,Europe & Central Asia,High income,Not classified
+340,2019,24.6,SI.POV.MDIM.MA,ESP,Spain,Europe & Central Asia,High income,Not classified
+341,2016,2.26367,SI.POV.MDIM.MA,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+342,2015,17.4,SI.POV.MDIM.MA,SWE,Sweden,Europe & Central Asia,High income,Not classified
+343,2016,17.0,SI.POV.MDIM.MA,SWE,Sweden,Europe & Central Asia,High income,Not classified
+344,2017,17.0,SI.POV.MDIM.MA,SWE,Sweden,Europe & Central Asia,High income,Not classified
+345,2018,16.6,SI.POV.MDIM.MA,SWE,Sweden,Europe & Central Asia,High income,Not classified
+346,2019,18.0,SI.POV.MDIM.MA,SWE,Sweden,Europe & Central Asia,High income,Not classified
+347,2015,40.2,SI.POV.MDIM.MA,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+348,2016,44.0,SI.POV.MDIM.MA,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+349,2017,40.0,SI.POV.MDIM.MA,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+350,2018,38.5,SI.POV.MDIM.MA,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+351,2019,38.6,SI.POV.MDIM.MA,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+352,2004,16.9631443024,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+353,2005,13.3172492981,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+354,2006,10.3173646927,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+355,2007,8.7505893707,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+356,2008,8.2103967667,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+357,2009,8.0427904129,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+358,2010,6.1375231743,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+359,2011,4.6016736031,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+360,2012,4.6859173775,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+361,2013,4.4649863243,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+362,2014,5.4092226028,1.0.HCount.2.5usd,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+363,2000,43.2509155273,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+364,2001,38.322467804,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+365,2002,39.6964569092,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+366,2005,34.9703292847,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+367,2006,31.972454071,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+368,2007,30.289270401,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+369,2008,22.836561203,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+370,2009,20.6412906647,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+371,2011,16.0836391449,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+372,2012,17.1273899078,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+373,2013,14.4473428726,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+374,2014,14.0086755753,1.0.HCount.2.5usd,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+375,2001,26.3759632111,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+376,2002,25.1449661255,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+377,2003,25.8365726471,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+378,2004,23.9514522552,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+379,2005,21.8958721161,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+380,2006,18.3536243439,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+381,2007,17.2200183868,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+382,2008,14.7366437912,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+383,2009,13.8868274689,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+384,2011,11.7248420715,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+385,2012,9.6125211716,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+386,2014,7.8162336349,1.0.HCount.2.5usd,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+387,2000,9.3611755371,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+388,2003,8.0201673508,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+389,2006,5.1284422874,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+390,2009,4.0890145302,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+391,2011,2.8820576668,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+392,2013,2.0385496616,1.0.HCount.2.5usd,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+393,2001,39.0340080261,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+394,2002,30.8398857117,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+395,2003,28.754737854,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+396,2004,28.392906189,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+397,2005,25.2660312653,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+398,2008,24.4469585419,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+399,2009,21.9101085663,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+400,2010,19.5579566956,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+401,2011,16.7546710968,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+402,2012,17.5397624969,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+403,2013,15.1662120819,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+404,2014,14.4610137939,1.0.HCount.2.5usd,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+405,2010,4.5735611916,1.0.HCount.2.5usd,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+406,2011,5.087436676,1.0.HCount.2.5usd,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+407,2012,4.7344589233,1.0.HCount.2.5usd,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+408,2013,4.6112914085,1.0.HCount.2.5usd,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+409,2014,4.6021556854,1.0.HCount.2.5usd,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+410,2000,15.713312149,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+411,2001,15.838842392,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+412,2002,17.6103115082,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+413,2003,21.8295631409,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+414,2004,27.7662086487,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+415,2005,21.0818195343,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+416,2006,18.6608181,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+417,2007,17.9004745483,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+418,2008,18.4379959106,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+419,2009,16.3964500427,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+420,2010,16.1425476074,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+421,2011,13.9747591019,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+422,2012,14.5516204834,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+423,2013,13.8788480759,1.0.HCount.2.5usd,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+424,2000,46.4415817261,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+425,2003,31.3343448639,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+426,2004,28.805305481,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+427,2005,25.6101360321,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+428,2006,19.9962711334,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+429,2007,19.805934906,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+430,2008,19.2930450439,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+431,2009,18.8514060974,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+432,2010,15.8833703995,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+433,2011,13.5460138321,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+434,2012,12.8523483276,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+435,2013,10.4638319016,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+436,2014,9.3378858566,1.0.HCount.2.5usd,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+437,2004,21.8320121765,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+438,2005,22.1138038635,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+439,2006,18.6175861359,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+440,2007,14.991104126,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+441,2008,20.1403827667,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+442,2009,18.7285137177,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+443,2010,19.7556686401,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+444,2011,16.5652923584,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+445,2012,14.6787967682,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+446,2013,12.7175798416,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+447,2014,12.3164157867,1.0.HCount.2.5usd,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+448,2000,33.8517494202,1.0.HCount.2.5usd,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+449,2006,33.3929862976,1.0.HCount.2.5usd,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+450,2014,36.9438552856,1.0.HCount.2.5usd,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+451,2001,37.0425491333,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+452,2002,47.953578949,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+453,2003,47.8918266296,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+454,2004,46.7688713074,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+455,2005,47.412021637,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+456,2006,42.0398597717,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+457,2007,36.9641036987,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+458,2008,34.0123710632,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+459,2009,31.3392486572,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+460,2010,33.9888687134,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+461,2011,37.3981666565,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+462,2012,42.4187431335,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+463,2013,39.6452102661,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+464,2014,36.2093582153,1.0.HCount.2.5usd,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+465,2000,19.5447807312,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+466,2002,17.1473388672,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+467,2004,14.7299337387,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+468,2005,14.9790315628,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+469,2006,11.8310928345,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+470,2008,13.5745534897,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+471,2010,12.6123981476,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+472,2012,11.4482707977,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+473,2014,11.7143821716,1.0.HCount.2.5usd,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+474,2005,37.2457427979,1.0.HCount.2.5usd,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+475,2009,29.2638950348,1.0.HCount.2.5usd,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+476,2014,20.3077869415,1.0.HCount.2.5usd,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+477,2008,14.4522294998,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+478,2009,12.3024072647,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+479,2010,13.1581087112,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+480,2011,11.5993757248,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+481,2012,11.776093483,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+482,2013,9.8572034836,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+483,2014,10.1643695831,1.0.HCount.2.5usd,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+484,2001,21.7402000427,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+485,2002,30.4392414093,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+486,2003,23.6140899658,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+487,2004,20.8243103027,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+488,2005,19.273109436,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+489,2006,24.4076080322,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+490,2007,19.3506584167,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+491,2008,17.0474529266,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+492,2009,17.8917446136,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+493,2010,16.095741272,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+494,2011,14.2939739227,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+495,2012,12.0395565033,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+496,2013,8.2720603943,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+497,2014,8.9941930771,1.0.HCount.2.5usd,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+498,2004,25.7677650452,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+499,2005,27.5917110443,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+500,2006,24.2751255035,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+501,2007,21.0590686798,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+502,2008,17.6751308441,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+503,2009,15.5591821671,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+504,2010,13.1891975403,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+505,2011,11.8388948441,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+506,2012,10.9057292938,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+507,2013,9.8463973999,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+508,2014,9.1646080017,1.0.HCount.2.5usd,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+509,2000,3.5834345818,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+510,2001,4.7814626694,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+511,2002,6.4094843864,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+512,2003,7.7296328545,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+513,2004,9.780787468,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+514,2005,8.9041948318,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+515,2006,7.0692420006,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+516,2007,6.1939315796,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+517,2008,4.1169652939,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+518,2009,3.5447854996,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+519,2010,2.8444161415,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+520,2011,2.5814607143,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+521,2012,2.6384286880000003,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+522,2013,2.4498457909,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+523,2014,2.0393226147,1.0.HCount.2.5usd,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+524,2016,0.27,SI.POV.MDIM.XQ,AFG,Afghanistan,South Asia,Low income,IDA
+525,2020,0.265,SI.POV.MDIM.XQ,AFG,Afghanistan,South Asia,Low income,IDA
+526,2015,0.264,SI.POV.MDIM.XQ,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+527,2017,0.023,SI.POV.MDIM.XQ,BTN,Bhutan,South Asia,Lower middle income,IDA
+528,2015,0.0724507803,SI.POV.MDIM.XQ,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+529,2016,0.0688854278,SI.POV.MDIM.XQ,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+530,2017,0.0628889888,SI.POV.MDIM.XQ,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+531,2018,0.0629886575,SI.POV.MDIM.XQ,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+532,2019,0.0554251373,SI.POV.MDIM.XQ,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+533,2015,0.1,SI.POV.MDIM.XQ,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+534,2016,0.089,SI.POV.MDIM.XQ,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+535,2015,0.17045115,SI.POV.MDIM.XQ,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+536,2016,0.1690065,SI.POV.MDIM.XQ,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+537,2017,0.16879919999999998,SI.POV.MDIM.XQ,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+538,2018,0.1866498,SI.POV.MDIM.XQ,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+539,2019,0.18973488,SI.POV.MDIM.XQ,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+540,2016,0.1463,SI.POV.MDIM.XQ,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+541,2017,0.1418,SI.POV.MDIM.XQ,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+542,2018,0.121,SI.POV.MDIM.XQ,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+543,2019,0.11750000000000001,SI.POV.MDIM.XQ,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+544,2016,0.23600000000000002,SI.POV.MDIM.XQ,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+545,2018,0.247,SI.POV.MDIM.XQ,GHA,Ghana,Sub-Saharan Africa ,Lower middle income,IDA
+546,2016,0.0152,SI.POV.MDIM.XQ,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+547,2019,0.011,SI.POV.MDIM.XQ,MYS,Malaysia,East Asia & Pacific,Upper middle income,IBRD
+548,2016,0.145,SI.POV.MDIM.XQ,MDV,Maldives,South Asia,Upper middle income,IDA
+549,2016,0.18,SI.POV.MDIM.XQ,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+550,2017,0.083,SI.POV.MDIM.XQ,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+551,2018,0.149,SI.POV.MDIM.XQ,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+552,2016,0.10400000000000001,SI.POV.MDIM.XQ,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+553,2017,0.07100000000000001,SI.POV.MDIM.XQ,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+554,2016,0.15,SI.POV.MDIM.XQ,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+555,2018,0.09,SI.POV.MDIM.XQ,SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD
+556,2016,0.03,SI.POV.MDIM.XQ,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+557,2016,0.0089,SI.POV.MDIM.XQ,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+558,2016,0.28,SI.POV.MDIM.XQ,LCA,St. Lucia,Latin America & Caribbean ,Upper middle income,Blend
+559,2017,0.068,SI.POV.MDIM.XQ,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+560,2016,0.10200000000000001,SI.POV.MDIM.XQ,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Not classified
+561,2004,1.4205751419000001,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+562,2005,1.2630610466,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+563,2006,1.1197984219000001,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+564,2007,1.0963805914,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+565,2008,1.0199321508,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+566,2009,1.0239150524,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+567,2010,0.9858977795,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+568,2011,0.9571685791000001,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+569,2012,0.8813955784,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+570,2013,0.8866181374000001,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+571,2014,0.9638845921,8.0.LIPI,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+572,2005,1.3317204714,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+573,2006,1.3223221302,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+574,2007,1.2269319296,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+575,2008,1.1307277679,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+576,2009,1.0874279737,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+577,2010,0.9512972832000001,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+578,2011,0.9112529159,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+579,2012,0.8569092751,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+580,2013,0.8183002472,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+581,2014,0.8221848607000001,8.0.LIPI,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+582,2005,1.7580530643,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+583,2006,1.5608971119000001,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+584,2007,1.6071770190999999,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+585,2008,1.6225941180999999,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+586,2009,1.5786200762,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+587,2010,1.0,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+588,2011,0.8450887799,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+589,2012,0.7775904536,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+590,2013,0.6981611848,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+591,2014,0.6323493123,8.0.LIPI,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+592,2008,1.0818850994,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+593,2009,1.0275193453,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+594,2010,0.9728009701,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+595,2011,0.9275665879,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+596,2012,0.9043768644,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+597,2013,0.8539376259,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+598,2014,0.8263801932,8.0.LIPI,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+599,2010,0.9562189579,8.0.LIPI,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+600,2011,1.0048084259,8.0.LIPI,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+601,2012,0.9519375563,8.0.LIPI,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+602,2013,0.8639719486,8.0.LIPI,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+603,2014,1.0265097618,8.0.LIPI,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+604,2006,1.0279031992,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+605,2007,1.0586231947,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+606,2008,1.0110410452,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+607,2009,1.0611101389,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+608,2010,0.9969640374000001,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+609,2011,0.8713464737000001,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+610,2012,0.8142656684,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+611,2013,0.8535782695,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+612,2014,0.8156706691000001,8.0.LIPI,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+613,2005,1.0098243952,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+614,2006,0.9691452384,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+615,2007,0.9075301886,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+616,2008,1.0188621283,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+617,2009,1.0416624546,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+618,2010,1.0067836046,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+619,2011,0.9897382855,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+620,2012,0.9633768797000001,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+621,2013,0.9347845316000001,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+622,2014,0.9002404213,8.0.LIPI,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+623,2010,1.0,8.0.LIPI,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+624,2011,1.0013809204,8.0.LIPI,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+625,2012,0.9731655717000001,8.0.LIPI,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+626,2013,0.9492604136,8.0.LIPI,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+627,2014,0.9520052075000001,8.0.LIPI,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+628,2005,0.9428154230000001,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+629,2006,0.911172092,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+630,2007,0.9028131962,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+631,2008,0.9697785974,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+632,2009,1.00431633,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+633,2010,1.0165470839,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+634,2011,0.9948413372,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+635,2012,0.9896303415000001,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+636,2013,1.017565608,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+637,2014,1.0407133102,8.0.LIPI,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+638,2010,0.9979951382000001,8.0.LIPI,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+639,2011,0.9600783587,8.0.LIPI,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+640,2012,0.8857470155,8.0.LIPI,NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,IDA
+641,2005,1.8022360802000001,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+642,2006,1.2782456875000001,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+643,2007,1.3912637234,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+644,2008,1.3196750878999999,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+645,2009,1.0432260036,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+646,2010,0.9404215217,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+647,2011,0.8576910496,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+648,2012,0.7689173818,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+649,2013,0.6938968897000001,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+650,2014,0.6885718107000001,8.0.LIPI,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+651,2006,1.3038715124,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+652,2007,1.1952337027,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+653,2008,1.0681728125,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+654,2009,1.0079926252,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+655,2010,0.9983757138,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+656,2011,0.8322769403,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+657,2012,0.7867164016,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+658,2013,0.7785367966000001,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+659,2014,0.7608665228,8.0.LIPI,URY,Uruguay,Latin America & Caribbean ,High income,IBRD
+660,2016,56.4,SI.POV.MDIM.17,AFG,Afghanistan,South Asia,Low income,IDA
+661,2020,53.8,SI.POV.MDIM.17,AFG,Afghanistan,South Asia,Low income,IDA
+662,2015,64.3,SI.POV.MDIM.17,AGO,Angola,Sub-Saharan Africa ,Lower middle income,IBRD
+663,2018,25.5,SI.POV.MDIM.17,ARM,Armenia,Europe & Central Asia,Upper middle income,IBRD
+664,2015,22.7,SI.POV.MDIM.17,AUT,Austria,Europe & Central Asia,High income,Not classified
+665,2016,20.6,SI.POV.MDIM.17,AUT,Austria,Europe & Central Asia,High income,Not classified
+666,2017,24.0,SI.POV.MDIM.17,AUT,Austria,Europe & Central Asia,High income,Not classified
+667,2018,21.7,SI.POV.MDIM.17,AUT,Austria,Europe & Central Asia,High income,Not classified
+668,2019,19.1,SI.POV.MDIM.17,AUT,Austria,Europe & Central Asia,High income,Not classified
+669,2015,22.7,SI.POV.MDIM.17,BEL,Belgium,Europe & Central Asia,High income,Not classified
+670,2016,21.1,SI.POV.MDIM.17,BEL,Belgium,Europe & Central Asia,High income,Not classified
+671,2017,21.5,SI.POV.MDIM.17,BEL,Belgium,Europe & Central Asia,High income,Not classified
+672,2018,22.4,SI.POV.MDIM.17,BEL,Belgium,Europe & Central Asia,High income,Not classified
+673,2019,22.2,SI.POV.MDIM.17,BEL,Belgium,Europe & Central Asia,High income,Not classified
+674,2017,7.2,SI.POV.MDIM.17,BTN,Bhutan,South Asia,Lower middle income,IDA
+675,2015,43.1,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+676,2016,45.5,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+677,2017,41.0,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+678,2018,33.4,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+679,2019,34.0,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+680,2020,32.8,SI.POV.MDIM.17,BGR,Bulgaria,Europe & Central Asia,Upper middle income,IBRD
+681,2015,23.3,SI.POV.MDIM.17,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+682,2017,22.9,SI.POV.MDIM.17,CHL,Chile,Latin America & Caribbean ,High income,IBRD
+683,2015,32.8,SI.POV.MDIM.17,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+684,2016,32.2,SI.POV.MDIM.17,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+685,2017,29.7,SI.POV.MDIM.17,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+686,2018,31.2,SI.POV.MDIM.17,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+687,2019,27.6,SI.POV.MDIM.17,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+688,2015,26.9,SI.POV.MDIM.17,HRV,Croatia,Europe & Central Asia,High income,IBRD
+689,2016,25.4,SI.POV.MDIM.17,HRV,Croatia,Europe & Central Asia,High income,IBRD
+690,2017,25.6,SI.POV.MDIM.17,HRV,Croatia,Europe & Central Asia,High income,IBRD
+691,2018,23.1,SI.POV.MDIM.17,HRV,Croatia,Europe & Central Asia,High income,IBRD
+692,2019,20.1,SI.POV.MDIM.17,HRV,Croatia,Europe & Central Asia,High income,IBRD
+693,2015,29.2,SI.POV.MDIM.17,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+694,2016,29.3,SI.POV.MDIM.17,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+695,2017,25.1,SI.POV.MDIM.17,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+696,2018,25.1,SI.POV.MDIM.17,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+697,2019,23.3,SI.POV.MDIM.17,CYP,Cyprus,Europe & Central Asia,High income,Not classified
+698,2015,18.4,SI.POV.MDIM.17,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+699,2016,17.8,SI.POV.MDIM.17,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+700,2017,14.3,SI.POV.MDIM.17,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+701,2018,12.6,SI.POV.MDIM.17,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+702,2019,12.9,SI.POV.MDIM.17,CZE,Czech Republic,Europe & Central Asia,High income,Not classified
+703,2015,15.3,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+704,2016,13.6,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+705,2017,14.5,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+706,2018,14.9,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+707,2019,13.6,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+708,2020,12.7,SI.POV.MDIM.17,DNK,Denmark,Europe & Central Asia,High income,Not classified
+709,2015,33.9,SI.POV.MDIM.17,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+710,2016,31.0,SI.POV.MDIM.17,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+711,2017,28.1,SI.POV.MDIM.17,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+712,2018,26.7,SI.POV.MDIM.17,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+713,2019,23.1,SI.POV.MDIM.17,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+714,2016,46.3,SI.POV.MDIM.17,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+715,2017,47.0,SI.POV.MDIM.17,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+716,2018,39.0,SI.POV.MDIM.17,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+717,2019,39.6,SI.POV.MDIM.17,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+718,2015,21.8,SI.POV.MDIM.17,EST,Estonia,Europe & Central Asia,High income,Not classified
+719,2016,20.7,SI.POV.MDIM.17,EST,Estonia,Europe & Central Asia,High income,Not classified
+720,2017,18.5,SI.POV.MDIM.17,EST,Estonia,Europe & Central Asia,High income,Not classified
+721,2018,17.7,SI.POV.MDIM.17,EST,Estonia,Europe & Central Asia,High income,Not classified
+722,2019,19.9,SI.POV.MDIM.17,EST,Estonia,Europe & Central Asia,High income,Not classified
+723,2015,14.8,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+724,2016,15.1,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+725,2017,15.0,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+726,2018,15.6,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+727,2019,13.7,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+728,2020,15.1,SI.POV.MDIM.17,FIN,Finland,Europe & Central Asia,High income,Not classified
+729,2015,20.9,SI.POV.MDIM.17,FRA,France,Europe & Central Asia,High income,Not classified
+730,2016,22.1,SI.POV.MDIM.17,FRA,France,Europe & Central Asia,High income,Not classified
+731,2017,21.6,SI.POV.MDIM.17,FRA,France,Europe & Central Asia,High income,Not classified
+732,2018,22.6,SI.POV.MDIM.17,FRA,France,Europe & Central Asia,High income,Not classified
+733,2019,21.8,SI.POV.MDIM.17,FRA,France,Europe & Central Asia,High income,Not classified
+734,2015,18.6,SI.POV.MDIM.17,DEU,Germany,Europe & Central Asia,High income,Not classified
+735,2016,18.9,SI.POV.MDIM.17,DEU,Germany,Europe & Central Asia,High income,Not classified
+736,2017,18.0,SI.POV.MDIM.17,DEU,Germany,Europe & Central Asia,High income,Not classified
+737,2018,17.3,SI.POV.MDIM.17,DEU,Germany,Europe & Central Asia,High income,Not classified
+738,2019,15.1,SI.POV.MDIM.17,DEU,Germany,Europe & Central Asia,High income,Not classified
+739,2015,36.6,SI.POV.MDIM.17,GRC,Greece,Europe & Central Asia,High income,Not classified
+740,2016,36.3,SI.POV.MDIM.17,GRC,Greece,Europe & Central Asia,High income,Not classified
+741,2017,35.7,SI.POV.MDIM.17,GRC,Greece,Europe & Central Asia,High income,Not classified
+742,2018,32.2,SI.POV.MDIM.17,GRC,Greece,Europe & Central Asia,High income,Not classified
+743,2019,29.7,SI.POV.MDIM.17,GRC,Greece,Europe & Central Asia,High income,Not classified
+744,2015,35.5,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+745,2016,33.8,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+746,2017,31.5,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+747,2018,23.1,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+748,2019,21.6,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+749,2020,18.0,SI.POV.MDIM.17,HUN,Hungary,Europe & Central Asia,High income,Not classified
+750,2015,15.3,SI.POV.MDIM.17,ISL,Iceland,Europe & Central Asia,High income,Not classified
+751,2016,14.8,SI.POV.MDIM.17,ISL,Iceland,Europe & Central Asia,High income,Not classified
+752,2017,14.6,SI.POV.MDIM.17,ISL,Iceland,Europe & Central Asia,High income,Not classified
+753,2018,13.1,SI.POV.MDIM.17,ISL,Iceland,Europe & Central Asia,High income,Not classified
+754,2015,27.9,SI.POV.MDIM.17,IRL,Ireland,Europe & Central Asia,High income,Not classified
+755,2016,26.8,SI.POV.MDIM.17,IRL,Ireland,Europe & Central Asia,High income,Not classified
+756,2017,24.0,SI.POV.MDIM.17,IRL,Ireland,Europe & Central Asia,High income,Not classified
+757,2018,23.1,SI.POV.MDIM.17,IRL,Ireland,Europe & Central Asia,High income,Not classified
+758,2019,23.0,SI.POV.MDIM.17,IRL,Ireland,Europe & Central Asia,High income,Not classified
+759,2015,33.4,SI.POV.MDIM.17,ITA,Italy,Europe & Central Asia,High income,Not classified
+760,2016,32.8,SI.POV.MDIM.17,ITA,Italy,Europe & Central Asia,High income,Not classified
+761,2017,31.5,SI.POV.MDIM.17,ITA,Italy,Europe & Central Asia,High income,Not classified
+762,2018,30.6,SI.POV.MDIM.17,ITA,Italy,Europe & Central Asia,High income,Not classified
+763,2019,27.7,SI.POV.MDIM.17,ITA,Italy,Europe & Central Asia,High income,Not classified
+764,2015,30.3,SI.POV.MDIM.17,LVA,Latvia,Europe & Central Asia,High income,Not classified
+765,2016,23.7,SI.POV.MDIM.17,LVA,Latvia,Europe & Central Asia,High income,Not classified
+766,2017,23.0,SI.POV.MDIM.17,LVA,Latvia,Europe & Central Asia,High income,Not classified
+767,2018,21.2,SI.POV.MDIM.17,LVA,Latvia,Europe & Central Asia,High income,Not classified
+768,2019,18.3,SI.POV.MDIM.17,LVA,Latvia,Europe & Central Asia,High income,Not classified
+769,2015,31.5,SI.POV.MDIM.17,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+770,2016,32.4,SI.POV.MDIM.17,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+771,2017,31.2,SI.POV.MDIM.17,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+772,2018,27.4,SI.POV.MDIM.17,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+773,2019,26.8,SI.POV.MDIM.17,LTU,Lithuania,Europe & Central Asia,High income,Not classified
+774,2015,22.6,SI.POV.MDIM.17,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+775,2016,21.5,SI.POV.MDIM.17,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+776,2017,19.4,SI.POV.MDIM.17,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+777,2018,23.2,SI.POV.MDIM.17,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+778,2019,26.0,SI.POV.MDIM.17,LUX,Luxembourg,Europe & Central Asia,High income,Not classified
+779,2016,33.9,SI.POV.MDIM.17,MDV,Maldives,South Asia,Upper middle income,IDA
+780,2016,41.0,SI.POV.MDIM.17,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+781,2015,27.8,SI.POV.MDIM.17,MLT,Malta,Middle East & North Africa,High income,Not classified
+782,2016,23.4,SI.POV.MDIM.17,MLT,Malta,Middle East & North Africa,High income,Not classified
+783,2017,22.5,SI.POV.MDIM.17,MLT,Malta,Middle East & North Africa,High income,Not classified
+784,2018,22.6,SI.POV.MDIM.17,MLT,Malta,Middle East & North Africa,High income,Not classified
+785,2019,23.6,SI.POV.MDIM.17,MLT,Malta,Middle East & North Africa,High income,Not classified
+786,2016,51.1,SI.POV.MDIM.17,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+787,2018,49.6,SI.POV.MDIM.17,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+788,2015,16.3,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+789,2016,17.2,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+790,2017,16.2,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+791,2018,14.9,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+792,2019,15.3,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+793,2020,16.5,SI.POV.MDIM.17,NLD,Netherlands,Europe & Central Asia,High income,Not classified
+794,2015,46.0,SI.POV.MDIM.17,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+795,2016,45.8,SI.POV.MDIM.17,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+796,2017,46.4,SI.POV.MDIM.17,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+797,2018,45.3,SI.POV.MDIM.17,MKD,North Macedonia,Europe & Central Asia,Upper middle income,IBRD
+798,2015,13.3,SI.POV.MDIM.17,NOR,Norway,Europe & Central Asia,High income,Not classified
+799,2016,14.4,SI.POV.MDIM.17,NOR,Norway,Europe & Central Asia,High income,Not classified
+800,2017,15.5,SI.POV.MDIM.17,NOR,Norway,Europe & Central Asia,High income,Not classified
+801,2018,15.1,SI.POV.MDIM.17,NOR,Norway,Europe & Central Asia,High income,Not classified
+802,2019,16.0,SI.POV.MDIM.17,NOR,Norway,Europe & Central Asia,High income,Not classified
+803,2018,32.8,SI.POV.MDIM.17,PAN,Panama,Latin America & Caribbean ,Upper middle income,IBRD
+804,2015,25.6,SI.POV.MDIM.17,POL,Poland,Europe & Central Asia,High income,IBRD
+805,2016,23.3,SI.POV.MDIM.17,POL,Poland,Europe & Central Asia,High income,IBRD
+806,2017,16.8,SI.POV.MDIM.17,POL,Poland,Europe & Central Asia,High income,IBRD
+807,2018,16.3,SI.POV.MDIM.17,POL,Poland,Europe & Central Asia,High income,IBRD
+808,2019,15.2,SI.POV.MDIM.17,POL,Poland,Europe & Central Asia,High income,IBRD
+809,2015,46.0,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+810,2016,48.5,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+811,2017,40.9,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+812,2018,37.9,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+813,2019,34.6,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+814,2020,36.1,SI.POV.MDIM.17,ROU,Romania,Europe & Central Asia,Upper middle income,IBRD
+815,2015,25.5,SI.POV.MDIM.17,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+816,2016,24.8,SI.POV.MDIM.17,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+817,2017,22.2,SI.POV.MDIM.17,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+818,2018,23.6,SI.POV.MDIM.17,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+819,2019,21.4,SI.POV.MDIM.17,SVK,Slovak Republic,Europe & Central Asia,High income,Not classified
+820,2015,16.3,SI.POV.MDIM.17,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+821,2016,14.3,SI.POV.MDIM.17,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+822,2017,15.2,SI.POV.MDIM.17,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+823,2018,13.3,SI.POV.MDIM.17,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+824,2019,11.7,SI.POV.MDIM.17,SVN,Slovenia,Europe & Central Asia,High income,Not classified
+825,2015,33.4,SI.POV.MDIM.17,ESP,Spain,Europe & Central Asia,High income,Not classified
+826,2016,31.7,SI.POV.MDIM.17,ESP,Spain,Europe & Central Asia,High income,Not classified
+827,2017,31.0,SI.POV.MDIM.17,ESP,Spain,Europe & Central Asia,High income,Not classified
+828,2018,28.8,SI.POV.MDIM.17,ESP,Spain,Europe & Central Asia,High income,Not classified
+829,2019,30.1,SI.POV.MDIM.17,ESP,Spain,Europe & Central Asia,High income,Not classified
+830,2016,2.63238,SI.POV.MDIM.17,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+831,2015,19.3,SI.POV.MDIM.17,SWE,Sweden,Europe & Central Asia,High income,Not classified
+832,2016,19.3,SI.POV.MDIM.17,SWE,Sweden,Europe & Central Asia,High income,Not classified
+833,2017,18.3,SI.POV.MDIM.17,SWE,Sweden,Europe & Central Asia,High income,Not classified
+834,2018,20.6,SI.POV.MDIM.17,SWE,Sweden,Europe & Central Asia,High income,Not classified
+835,2019,22.7,SI.POV.MDIM.17,SWE,Sweden,Europe & Central Asia,High income,Not classified
+836,2015,21.5,SI.POV.MDIM.17,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+837,2015,48.2,SI.POV.MDIM.17,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+838,2016,51.4,SI.POV.MDIM.17,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+839,2017,48.4,SI.POV.MDIM.17,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+840,2018,47.6,SI.POV.MDIM.17,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
+841,2019,47.7,SI.POV.MDIM.17,TUR,Turkey,Europe & Central Asia,Upper middle income,IBRD
