@@ -1,6 +1,6 @@
 ## PART A Project
 ## Name: Sai Naga Venkata Santoshi Nitya Bandaru
-## Professor : Dr. Jay Wang
+## Professor : Dr. Chaojie Wang
 ### The world has made considerable strides in overcoming global poverty. Since 1990, more than 1.2 billion people have risen out of extreme poverty. Now, 9.2% of the world survives on less than $1.90 a day, compared to nearly 36% in 1990.
 ## TOPIC
 ### POVERTY
